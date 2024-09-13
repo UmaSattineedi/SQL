@@ -167,6 +167,7 @@ VALUES
   (201, 'Laptop', 999.99),
   (202, 'Smartphone', 749.00),
   (203, 'Headphones', 129.95);
+
   
 
 
